@@ -1,0 +1,16 @@
+{
+  "name": "Disha – Campus Navigator",
+  "short_name": "Disha",
+  "description": "Smart campus navigation for Manav Rachna (CampusSaathi)",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#eef1fb",
+  "theme_color": "#2b3bd1",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}
